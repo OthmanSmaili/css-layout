@@ -39,6 +39,7 @@ nav {
 }
 .main-nav a:hover{
     text-decoration: none;
+    transition: all 0.3s linear;
     color: #444;
 }
 
